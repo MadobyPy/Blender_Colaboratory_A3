@@ -1,7 +1,7 @@
 # Blender Cloud Rendering (Google Colab)
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MadobyPy/Blender-Colaboratory_A3/blob/main/cloud_render_v5.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MadobyPy/Blender-Colaboratory_A3/blob/main/Blender_Colaboratory_A3.ipynb)
 
 ## How to use
 
